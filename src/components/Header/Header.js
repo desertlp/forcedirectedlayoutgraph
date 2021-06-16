@@ -1,10 +1,10 @@
-import './Header.css';
+import '../App.css';
 
 function Header() {
   return (
     <div className="Header">
       <header className="Header-header">
-        <p>Header</p>
+        <p className="App-logo">Header</p>
       </header>
     </div> 
   );

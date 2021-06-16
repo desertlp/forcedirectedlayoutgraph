@@ -1,3 +1,33 @@
+.node {
+    fill: turquoise;
+    stroke: black;
+    stroke-width: 2px;
+}
+
+.link {
+    stroke: blue;
+    stroke-width: 2px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .App {
   text-align: center;
 }
